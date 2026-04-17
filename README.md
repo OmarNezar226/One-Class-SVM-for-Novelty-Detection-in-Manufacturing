@@ -1,0 +1,1 @@
+# One-Class-SVM-for-Novelty-Detection-in-Manufacturing
